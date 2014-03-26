@@ -1,4 +1,4 @@
-package org.conceptmanager.mapping;
+package org.conceptmanager.concept.mapper;
 
 import org.conceptmanager.util.Mapper;
 
