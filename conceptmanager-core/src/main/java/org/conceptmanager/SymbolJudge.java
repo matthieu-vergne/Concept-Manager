@@ -5,7 +5,12 @@ package org.conceptmanager;
  * request, as provided by {@link SymbolManager#request(Object)}. It can be seen
  * as an oracle in the sense that "it is the one which knows". In particular, it
  * provides a {@link Judgment} value of the fitting between a request and an
- * answer via {@link #judge(Object, Object)}.
+ * answer via {@link #judge(Object, Object)}. However, an oracle is only a
+ * particular use which usually relies on an external authority to provide such
+ * {@link Judgment} value. Another use is to consider an internal feedback loop,
+ * such as a sensor which evaluates the distance between the request and the
+ * answer provided (e.g. how close the answer is to the request for a repetition
+ * purpose) so that a self-correction can be supported.
  * 
  * @author Matthieu Vergne <matthieu.vergne@gmail.com>
  * 
