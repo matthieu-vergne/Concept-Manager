@@ -1,4 +1,4 @@
-package org.conceptmanager;
+package org.conceptmanager.symbol;
 
 /**
  * A {@link SymbolJudge} aims at evaluating the fitting of an answer to a

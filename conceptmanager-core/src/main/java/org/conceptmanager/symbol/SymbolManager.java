@@ -1,4 +1,4 @@
-package org.conceptmanager;
+package org.conceptmanager.symbol;
 
 /**
  * A {@link SymbolManager} aims at learning relations between {@link Symbol}s

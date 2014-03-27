@@ -3,8 +3,8 @@ package org.conceptmanager.sample1;
 import java.util.Arrays;
 import java.util.Collection;
 
-import org.conceptmanager.SymbolJudge;
-import org.conceptmanager.SymbolManager;
+import org.conceptmanager.symbol.SymbolJudge;
+import org.conceptmanager.symbol.SymbolManager;
 
 /**
  * In this sample, we have a little set of simple symbols and we consider that,

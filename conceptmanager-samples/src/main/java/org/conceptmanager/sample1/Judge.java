@@ -1,6 +1,6 @@
 package org.conceptmanager.sample1;
 
-import org.conceptmanager.SymbolJudge;
+import org.conceptmanager.symbol.SymbolJudge;
 
 /**
  * This {@link Judge} consider that if we request a given {@link String}, a good

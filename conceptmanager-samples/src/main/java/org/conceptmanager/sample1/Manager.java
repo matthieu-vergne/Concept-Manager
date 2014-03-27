@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import org.conceptmanager.SymbolManager;
+import org.conceptmanager.symbol.SymbolManager;
 
 /**
  * This {@link Manager} is a simple {@link SymbolManager} which learns the
