@@ -1,4 +1,4 @@
-package org.conceptmanager.sample1;
+package org.conceptmanager.sampleJudgementLearning;
 
 import org.conceptmanager.symbol.SymbolJudge;
 

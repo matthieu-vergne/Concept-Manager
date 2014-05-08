@@ -1,4 +1,4 @@
-package org.conceptmanager.sample1;
+package org.conceptmanager.sampleJudgementLearning;
 
 import java.util.HashMap;
 import java.util.HashSet;

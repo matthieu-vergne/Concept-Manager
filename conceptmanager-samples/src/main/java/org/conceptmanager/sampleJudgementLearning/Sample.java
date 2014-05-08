@@ -1,4 +1,4 @@
-package org.conceptmanager.sample1;
+package org.conceptmanager.sampleJudgementLearning;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -15,7 +15,7 @@ import org.conceptmanager.symbol.SymbolManager;
  * @author Matthieu Vergne <matthieu.vergne@gmail.com>
  * 
  */
-public class Sample1 {
+public class Sample {
 
 	public static void main(String[] args) {
 		SymbolJudge<String, Boolean> judge = new Judge();
